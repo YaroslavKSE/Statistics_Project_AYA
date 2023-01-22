@@ -1,0 +1,192 @@
+"place","pop2022","growthRate","area","country","cca3","cca2","ccn3","region","subregion","landAreaKm","density","densityMi","Rank","obesityRate","rank"
+520,12668,0.01255,21,"Nauru","NRU","NR",520,"Oceania","Micronesia",20,633.4,1640.506,225,61,1
+184,17011,0.00047,240,"Cook Islands","COK","CK",184,"Oceania","Polynesia",240,70.8792,183.577,223,55.9,2
+585,18055,0.00172,459,"Palau","PLW","PW",585,"Oceania","Micronesia",460,39.25,101.6575,222,55.3,3
+584,41569,-0.01144,181,"Marshall Islands","MHL","MH",584,"Oceania","Micronesia",180,230.9389,598.1317,215,52.9,4
+798,11312,0.00964,26,"Tuvalu","TUV","TV",798,"Oceania","Polynesia",30,377.0667,976.6027,227,51.6,5
+570,1934,-0.00155,261,"Niue","NIU","NU",570,"Oceania","Polynesia",261,7.41,19.1918,232,50,6
+776,106858,0.00793,747,"Tonga","TON","TO",776,"Oceania","Polynesia",720,148.4139,384.392,197,48.2,7
+882,222382,0.01654,2842,"Samoa","WSM","WS",882,"Oceania","Polynesia",2780,79.9935,207.1832,188,47.3,8
+296,131232,0.0183,811,"Kiribati","KIR","KI",296,"Oceania","Micronesia",810,162.0148,419.6184,192,46,9
+583,114164,0.00913,702,"Micronesia","FSM","FM",583,"Oceania","Micronesia",700,163.0914,422.4068,194,45.8,10
+414,4268873,0.00441,17818,"Kuwait","KWT","KW",414,"Asia",Western Asia,The Middle East,17820,239.5552,620.4479,129,37.9,11
+840,338289857,0.00384,9372610,"United States","USA","US",840,"North America","Northern America",9147420,36.982,95.7834,3,36.2,12
+400,11285869,0.01234,89342,"Jordan","JOR","JO",400,"Asia",Western Asia,The Middle East,88794,127.1017,329.1934,83,35.5,13
+682,36408820,0.01275,2149690,"Saudi Arabia","SAU","SA",682,"Asia",Western Asia,The Middle East,2149690,16.9368,43.8663,41,35.4,14
+634,2695122,0.00256,11586,"Qatar","QAT","QA",634,"Asia",Western Asia,The Middle East,11490,234.5624,607.5166,143,35.1,15
+422,5489739,-0.0184,10452,"Lebanon","LBN","LB",422,"Asia",Western Asia,The Middle East,10230,536.6314,1389.8753,119,33.7,16
+434,6812341,0.01144,1759540,"Libya","LBY","LY",434,"Africa","Northern Africa",1759540,3.8717,10.0276,107,32.5,17
+792,85341241,0.00668,783562,"Turkey","TUR","TR",792,"Asia",Western Asia,The Middle East,783562,108.9145,282.0885,18,32.1,18
+818,110990103,0.01581,1002450,"Egypt","EGY","EG",818,"Africa",Northern Africa,The Middle East,995450,111.4974,288.7783,14,32,19
+784,9441129,0.00811,83600,"United Arab Emirates","ARE","AE",784,"Asia",Western Asia,The Middle East,71020,132.9362,344.3048,97,31.7,20
+44,409984,0.00509,13943,"Bahamas","BHS","BS",44,"North America","Caribbean",10010,40.9574,106.0798,176,31.6,21
+554,5185288,0.01083,270467,"New Zealand","NZL","NZ",554,"Oceania","Australia and New Zealand",263310,19.6927,51.0041,123,30.8,22
+368,44496122,0.02211,438317,"Iraq","IRQ","IQ",368,"Asia",Western Asia,The Middle East,434128,102.4954,265.4631,35,30.4,23
+242,929766,0.00558,18272,"Fiji","FJI","FJ",242,"Oceania","Melanesia",18270,50.8903,131.8059,162,30.2,24
+48,1472233,0.00613,765,"Bahrain","BHR","BH",48,"Asia",Western Asia,The Middle East,785,1875.4561,4857.4312,154,29.8,25
+124,38454327,0.00785,9984670,"Canada","CAN","CA",124,"North America","Northern America",8965590,4.2891,11.1088,39,29.4,26
+36,26177413,0.00989,7692024,"Australia","AUS","AU",36,"Oceania","Australia and New Zealand",7692020,3.4032,8.8143,55,29,27
+484,127504125,0.00631,1964375,"Mexico","MEX","MX",484,"North America",Central America,Latin America,1943950,65.5902,169.8787,10,28.9,28
+470,533286,0.01241,316,"Malta","MLT","MT",470,"Europe","Southern Europe",320,1666.5188,4316.2836,173,28.9,29
+710,59893885,0.00845,1221037,"South Africa","ZAF","ZA",710,"Africa",Southern Africa,Sub-Saharan Africa,1213090,49.373,127.8761,24,28.3,30
+32,45510318,0.00516,2780400,"Argentina","ARG","AR",32,"South America",South America,Latin America,2736690,16.6297,43.0709,33,28.3,31
+152,19603733,0.00567,756102,"Chile","CHL","CL",152,"South America",South America,Latin America,743532,26.3657,68.2871,65,28,32
+858,3422794,-0.00101,181034,"Uruguay","URY","UY",858,"South America",South America,Latin America,175020,19.5566,50.6516,133,27.9,33
+212,72737,0.00449,751,"Dominica","DMA","DM",212,"North America","Caribbean",750,96.9827,251.1851,204,27.9,34
+826,67508936,0.00339,242900,"United Kingdom","GBR","GB",826,"Europe","Northern Europe",241930,279.0433,722.722,21,27.8,35
+760,22125249,0.03756,185180,"Syria","SYR","SY",760,"Asia",Western Asia,The Middle East,183630,120.4882,312.0644,60,27.8,36
+214,11228821,0.00998,48671,"Dominican Republic","DOM","DO",214,"North America","Caribbean",48310,232.4326,602.0005,84,27.6,37
+12,44903225,0.01642,2381741,"Algeria","DZA","DZ",12,"Africa","Northern Africa",2381741,18.8531,48.8296,34,27.4,38
+512,4576298,0.01235,309500,"Oman","OMN","OM",512,"Asia",Western Asia,The Middle East,309500,14.7861,38.296,127,27,39
+788,12356117,0.0076,163610,"Tunisia","TUN","TN",788,"Africa","Northern Africa",155360,79.5322,205.9883,79,26.9,40
+348,9967308,0.02652,93028,"Hungary","HUN","HU",348,"Europe","Eastern Europe",91260,109.2188,282.8767,94,26.4,41
+740,618040,0.00825,163820,"Suriname","SUR","SR",740,"South America",South America,Latin America,156000,3.9618,10.261,170,26.4,42
+440,2750055,-0.01313,65300,"Lithuania","LTU","LT",440,"Europe","Northern Europe",62620,43.9166,113.7439,141,26.3,43
+504,37457971,0.01029,446550,"Morocco","MAR","MA",504,"Africa","Northern Africa",446300,83.93,217.3788,40,26.1,44
+376,9038309,0.01553,20770,"Israel","ISR","IL",376,"Asia",Western Asia,The Middle East,21640,417.6668,1081.7569,98,26.1,45
+203,10493986,-0.0016,78865,"Czech Republic","CZE","CZ",203,"Europe","Eastern Europe",77198.5,135.9351,352.0719,88,26,46
+364,88550570,0.00713,1648195,"Iran","IRN","IR",364,"Asia",Southern Asia,The Middle East,1622500,54.5766,141.3535,17,25.8,47
+188,5180829,0.00521,51100,"Costa Rica","CRI","CR",188,"North America",Central America,Latin America,51060,101.4655,262.7957,124,25.7,48
+862,28301696,0.00361,916445,"Venezuela","VEN","VE",862,"South America",South America,Latin America,882050,32.0863,83.1034,51,25.6,49
+20,79824,0.01,468,"Andorra","AND","AD",20,"Europe","Southern Europe",470,169.8383,439.8812,203,25.6,50
+372,5023109,0.00734,70273,"Ireland","IRL","IE",372,"Europe","Northern Europe",68890,72.9149,188.8496,125,25.3,51
+548,326740,0.02382,12189,"Vanuatu","VUT","VU",548,"Oceania","Melanesia",12190,26.8039,69.4222,181,25.2,52
+100,6781953,-0.01509,110879,"Bulgaria","BGR","BG",100,"Europe","Eastern Europe",108560,62.4719,161.8023,108,25,53
+300,10384971,-0.00578,131990,"Greece","GRC","GR",300,"Europe","Southern Europe",128900,80.5661,208.6662,90,24.9,54
+388,2827377,-0.00011,10991,"Jamaica","JAM","JM",388,"North America","Caribbean",10830,261.069,676.1686,139,24.7,55
+192,11212191,-0.00393,109884,"Cuba","CUB","CU",192,"North America","Caribbean",103800,108.0173,279.7647,85,24.6,56
+222,6336392,0.00352,21041,"El Salvador","SLV","SV",222,"North America",Central America,Latin America,20720,305.8104,792.049,112,24.6,57
+112,9534954,-0.00451,207600,"Belarus","BLR","BY",112,"Europe","Eastern Europe",202980,46.9748,121.6648,96,24.5,58
+191,4030358,-0.00733,56594,"Croatia","HRV","HR",191,"Europe","Southern Europe",55960,72.0221,186.5373,130,24.4,59
+804,39701739,-0.08798,603500,"Ukraine","UKR","UA",804,"Europe","Eastern Europe",579400,68.5222,177.4724,38,24.1,60
+84,405272,0.0131,22966,"Belize","BLZ","BZ",84,"North America",Central America,Latin America,22810,17.7673,46.0173,177,24.1,61
+670,103948,-0.00368,389,"Saint Vincent and the Grenadines","VCT","VC",670,"North America","Caribbean",390,266.5333,690.3213,199,24.1,62
+724,47558630,0.00151,505992,"Spain","ESP","ES",724,"Europe","Southern Europe",499556.6,95.2017,246.5724,30,23.8,63
+558,6948392,0.01428,130373,"Nicaragua","NIC","NI",558,"North America",Central America,Latin America,120340,57.7397,149.5457,106,23.7,64
+428,1850651,-0.01242,64559,"Latvia","LVA","LV",428,"Europe","Northern Europe",62230,29.7389,77.0237,151,23.6,65
+499,627082,-0.00124,13812,"Montenegro","MNE","ME",499,"Europe","Southern Europe",13450,46.6232,120.7541,169,23.3,66
+643,144713314,-0.00268,17098242,"Russia","RUS","RU",643,"Europe","Eastern Europe",16376870,8.8364,22.8864,9,23.1,67
+616,39857145,0.04045,312679,"Poland","POL","PL",616,"Europe","Eastern Europe",306130,130.1968,337.2097,37,23.1,68
+578,5434319,0.00579,323802,"Norway","NOR","NO",578,"Europe","Northern Europe",364285,14.9178,38.637,120,23.1,69
+52,281635,0.00155,430,"Barbados","BRB","BB",52,"North America","Caribbean",430,654.9651,1696.3597,186,23.1,70
+659,47657,0.00107,261,"Saint Kitts and Nevis","KNA","KN",659,"North America","Caribbean",260,183.2962,474.737,211,22.9,71
+332,11584996,0.01201,27750,"Haiti","HTI","HT",332,"North America","Caribbean",27560,420.3554,1088.7206,82,22.7,72
+591,4408581,0.01317,75417,"Panama","PAN","PA",591,"North America",Central America,Latin America,74180,59.4309,153.9259,128,22.7,73
+442,647599,0.01295,2586,"Luxembourg","LUX","LU",442,"Europe","Western Europe",2574.5,251.5436,651.4979,168,22.6,74
+642,19659267,0.01711,238391,"Romania","ROU","RO",642,"Europe","Eastern Europe",230080,85.4454,221.3035,64,22.5,75
+90,724273,0.0232,28896,"Solomon Islands","SLB","SB",90,"Oceania","Melanesia",27990,25.8761,67.0192,166,22.5,76
+276,83369843,-0.00046,357114,"Germany","DEU","DE",276,"Europe","Western Europe",349390,238.6154,618.0139,19,22.3,77
+170,51874024,0.00694,1141748,"Colombia","COL","CO",170,"South America",South America,Latin America,1109500,46.7544,121.0939,28,22.3,78
+246,5540745,0.00086,338424,"Finland","FIN","FI",246,"Europe","Northern Europe",303940,18.2297,47.215,118,22.2,79
+76,215313498,0.00461,8515767,"Brazil","BRA","BR",76,"South America",South America,Latin America,8358140,25.7609,66.7208,7,22.1,80
+56,11655930,0.00383,30528,"Belgium","BEL","BE",56,"Europe","Western Europe",30280,384.9382,996.99,81,22.1,81
+352,372899,0.00692,103000,"Iceland","ISL","IS",352,"Europe","Northern Europe",100830,3.6983,9.5786,179,21.9,82
+196,1251488,0.00587,9251,"Cyprus","CYP","CY",196,"Europe",Eastern Europe,The Middle East,9240,135.4424,350.7959,158,21.8,83
+268,3744385,-0.00362,69700,"Georgia","GEO","GE",268,"Asia","Western Asia",69490,53.8838,139.559,131,21.7,84
+8,2842321,-0.00434,28748,"Albania","ALB","AL",8,"Europe","Southern Europe",27400,103.7343,268.6719,138,21.7,85
+250,64626628,0.00148,551695,"France","FRA","FR",250,"Europe","Western Europe",547557,118.0272,305.6905,23,21.6,86
+688,7221365,-0.01033,88361,"Serbia","SRB","RS",688,"Europe","Southern Europe",87460,82.5676,213.8502,105,21.5,87
+340,10432860,0.01503,112492,"Honduras","HND","HN",340,"North America",Central America,Latin America,111890,93.2421,241.4971,89,21.4,88
+598,10142619,0.01942,462840,"Papua New Guinea","PNG","PG",598,"Oceania","Melanesia",452860,22.3968,58.0077,93,21.3,89
+308,125438,0.00665,344,"Grenada","GRD","GD",308,"North America","Caribbean",340,368.9353,955.5424,193,21.3,90
+320,17843908,0.01337,108889,"Guatemala","GTM","GT",320,"North America",Central America,Latin America,107160,166.5165,431.2777,68,21.2,91
+233,1326062,-0.00199,45227,"Estonia","EST","EE",233,"Europe","Northern Europe",42750,31.019,80.3392,156,21.2,92
+398,19397998,0.0105,2724900,"Kazakhstan","KAZ","KZ",398,"Asia","Central Asia",2699700,7.1852,18.6098,66,21,93
+620,10270865,-0.00187,92090,"Portugal","PRT","PT",620,"Europe","Southern Europe",91605.6,112.1205,290.3921,92,20.8,94
+752,10549347,0.00786,450295,"Sweden","SWE","SE",752,"Europe","Northern Europe",407283.5,25.9017,67.0855,87,20.6,95
+496,3398366,0.01511,1564110,"Mongolia","MNG","MN",496,"Asia","Eastern Asia",1557506.8,2.1819,5.6512,134,20.6,96
+703,5643453,0.03595,49037,"Slovakia","SVK","SK",703,"Europe","Eastern Europe",49035,115.0903,298.0839,116,20.5,97
+528,17564014,0.00356,41850,"Netherlands","NLD","NL",528,"Europe","Western Europe",33670,521.6517,1351.078,71,20.4,98
+600,6780744,0.01148,406752,"Paraguay","PRY","PY",600,"South America",South America,Latin America,397300,17.0671,44.2037,109,20.3,99
+68,12224110,0.01197,1098581,"Bolivia","BOL","BO",68,"South America",South America,Latin America,1083300,11.2841,29.2259,80,20.2,100
+51,2780469,-0.00376,29743,"Armenia","ARM","AM",51,"Asia","Western Asia",28470,97.6631,252.9475,140,20.2,101
+705,2119844,0.00021,20273,"Slovenia","SVN","SI",705,"Europe","Southern Europe",20136.4,105.2742,272.6603,148,20.2,102
+328,808726,0.00517,214969,"Guyana","GUY","GY",328,"South America",South America,Latin America,196850,4.1083,10.6406,164,20.2,103
+40,8939617,0.00197,83871,"Austria","AUT","AT",40,"Europe","Western Europe",82520,108.3327,280.5818,99,20.1,104
+380,59037474,-0.00342,301336,"Italy","ITA","IT",380,"Europe","Southern Europe",295717,199.6418,517.0723,25,19.9,105
+218,18001000,0.01142,276841,"Ecuador","ECU","EC",218,"South America",South America,Latin America,248360,72.4795,187.7218,67,19.9,106
+31,10358074,0.00437,86600,"Azerbaijan","AZE","AZ",31,"Asia","Western Asia",82646,125.3306,324.6063,91,19.9,107
+604,34049588,0.00991,1285216,"Peru","PER","PE",604,"South America",South America,Latin America,1280000,26.6012,68.8972,44,19.7,108
+208,5882261,0.00479,43094,"Denmark","DNK","DK",208,"Europe","Northern Europe",40000,147.0565,380.8764,115,19.7,109
+662,179857,0.00115,616,"Saint Lucia","LCA","LC",662,"North America","Caribbean",610,294.8475,763.6551,190,19.7,110
+756,8740472,0.00565,41284,"Switzerland","CHE","CH",756,"Europe","Western Europe",39516,221.1882,572.8774,101,19.5,111
+498,3272996,0.06908,33846,"Moldova","MDA","MD",498,"Europe","Eastern Europe",32884.6,99.5297,257.7821,135,18.9,112
+72,2630296,0.01618,582000,"Botswana","BWA","BW",72,"Africa",Southern Africa,Sub-Saharan Africa,566730,4.6412,12.0207,144,18.9,113
+28,93763,0.00584,442,"Antigua and Barbuda","ATG","AG",28,"North America","Caribbean",440,213.0977,551.9231,201,18.9,114
+795,6430770,0.01402,488100,"Turkmenistan","TKM","TM",795,"Asia",Central Asia,South Central Asia,469930,13.6845,35.4429,111,18.6,115
+780,1531044,0.00353,5130,"Trinidad and Tobago","TTO","TT",780,"North America","Caribbean",5130,298.4491,772.9832,153,18.6,116
+70,3233526,-0.01144,51209,"Bosnia and Herzegovina","BIH","BA",70,"Europe","Southern Europe",51200,63.1548,163.5709,137,17.9,117
+516,2567012,0.01457,825615,"Namibia","NAM","NA",516,"Africa",Southern Africa,Sub-Saharan Africa,823290,3.118,8.0756,145,17.2,118
+887,33696614,0.02168,527968,"Yemen","YEM","YE",887,"Asia",Western Asia,The Middle East,527970,63.823,165.3015,46,17.1,119
+860,34627652,0.01603,447400,"Uzbekistan","UZB","UZ",860,"Asia",Central Asia,South Central Asia,440650,78.5831,203.5303,43,16.6,120
+417,6630623,0.01576,199951,"Kyrgyzstan","KGZ","KG",417,"Asia",Central Asia,South Central Asia,191800,34.5705,89.5376,110,16.6,121
+426,2305825,0.01068,30355,"Lesotho","LSO","LS",426,"Africa",Southern Africa,Sub-Saharan Africa,30360,75.9494,196.709,147,16.6,122
+748,1201670,0.00788,17364,"Eswatini","SWZ","SZ",748,"Africa",Southern Africa,Sub-Saharan Africa,17200,69.8645,180.9491,159,16.5,123
+458,33938221,0.01085,330803,"Malaysia","MYS","MY",458,"Asia","South-Eastern Asia",328550,103.297,267.5392,45,15.6,124
+716,16320537,0.02045,390757,"Zimbabwe","ZWE","ZW",716,"Africa",Eastern Africa,Sub-Saharan Africa,386850,42.1883,109.2677,74,15.5,125
+266,2388992,0.02042,267668,"Gabon","GAB","GA",266,"Africa",Middle Africa,Sub-Saharan Africa,257670,9.2715,24.0132,146,15,126
+762,9952787,0.02079,143100,"Tajikistan","TJK","TJ",762,"Asia",Central Asia,South Central Asia,138790,71.7111,185.7318,95,14.2,127
+96,449002,0.00815,5765,"Brunei","BRN","BN",96,"Asia","South-Eastern Asia",5270,85.1996,220.667,175,14.1,128
+690,107118,0.00608,452,"Seychelles","SYC","SC",690,"Africa",Eastern Africa,Sub-Saharan Africa,460,232.8652,603.1209,196,14,129
+262,1120849,0.01383,23200,"Djibouti","DJI","DJ",262,"Africa",Eastern Africa,Sub-Saharan Africa,23180,48.3541,125.2372,160,13.5,130
+478,4736139,0.02626,1030700,"Mauritania","MRT","MR",478,"Africa",Western Africa,Sub-Saharan Africa,1030700,4.5951,11.9012,126,12.7,131
+678,227380,0.01915,964,"Sao Tome and Principe","STP","ST",678,"Africa",Middle Africa,Sub-Saharan Africa,960,236.8542,613.4523,187,12.4,132
+132,593149,0.00889,4033,"Cape Verde","CPV","CV",132,"Africa",Western Africa,Sub-Saharan Africa,4033,147.0739,380.9214,171,11.8,133
+120,27914536,0.02632,475442,"Cameroon","CMR","CM",120,"Africa",Middle Africa,Sub-Saharan Africa,472710,59.0521,152.945,53,11.4,134
+288,33475870.000000004,0.01958,238533,"Ghana","GHA","GH",288,"Africa",Western Africa,Sub-Saharan Africa,227533,147.1253,381.0546,47,10.9,135
+480,1299469,0.00043,2040,"Mauritius","MUS","MU",480,"Africa",Eastern Africa,Sub-Saharan Africa,2030,640.1325,1657.9432,157,10.8,136
+384,28160542,0.02483,322463,"Ivory Coast","CIV","CI",384,"Africa",Western Africa,Sub-Saharan Africa,318000,88.5552,229.3579,52,10.3,137
+270,2705992,0.02503,10689,"Gambia","GMB","GM",270,"Africa",Western Africa,Sub-Saharan Africa,10120,267.3905,692.5414,142,10.3,138
+764,71697030,0.00134,513120,"Thailand","THA","TH",764,"Asia","South-Eastern Asia",510890,140.3375,363.4741,20,10,139
+430,5302681,0.02104,111369,"Liberia","LBR","LR",430,"Africa",Western Africa,Sub-Saharan Africa,96320,55.0528,142.5866,121,9.9,140
+204,13352864,0.02739,112622,"Benin","BEN","BJ",204,"Africa",Western Africa,Sub-Saharan Africa,112760,118.4184,306.7038,77,9.6,141
+178,5970424,0.02307,342000,"Republic of the Congo","COG","CG",178,"Africa",Middle Africa,Sub-Saharan Africa,341500,17.4829,45.2808,114,9.6,142
+624,2105566,0.02176,36125,"Guinea-Bissau","GNB","GW",624,"Africa",Western Africa,Sub-Saharan Africa,28120,74.8779,193.9337,149,9.5,143
+566,218541212,0.02409,923768,"Nigeria","NGA","NG",566,"Africa",Western Africa,Sub-Saharan Africa,910770,239.9521,621.476,6,8.9,144
+686,17316449,0.02606,196722,"Senegal","SEN","SN",686,"Africa",Western Africa,Sub-Saharan Africa,192530,89.9416,232.9486,72,8.8,145
+694,8605718,0.02198,71740,"Sierra Leone","SLE","SL",694,"Africa",Western Africa,Sub-Saharan Africa,72180,119.2258,308.7948,102,8.7,146
+586,235824862,0.01911,881912,"Pakistan","PAK","PK",586,"Asia",Southern Asia,South Central Asia,770880,305.9164,792.3236,5,8.6,147
+729,46874204,0.02666,1886068,"Sudan","SDN","SD",729,"Africa","Northern Africa",1868000,25.0933,64.9915,32,8.6,148
+466,22593590,0.03144,1240192,"Mali","MLI","ML",466,"Africa",Western Africa,Sub-Saharan Africa,1220190,18.5165,47.9576,59,8.6,149
+728,10913164,0.01534,619745,"South Sudan","SSD","SS",728,"Africa",Middle Africa,Sub-Saharan Africa,631930,17.2696,44.7282,86,8.6,150
+462,523787.00000000006,0.00447,300,"Maldives","MDV","MV",462,"Asia",Southern Asia,South Central Asia,300,1745.9567,4522.0278,174,8.6,151
+834,65497748,0.03003,945087,"Tanzania","TZA","TZ",834,"Africa",Eastern Africa,Sub-Saharan Africa,885800,73.9419,191.5096,22,8.4,152
+768,8848699,0.02358,56785,"Togo","TGO","TG",768,"Africa",Western Africa,Sub-Saharan Africa,54390,162.6898,421.3666,100,8.4,153
+706,17597511,0.03117,637657,"Somalia","SOM","SO",706,"Africa",Eastern Africa,Sub-Saharan Africa,627340,28.051,72.6521,70,8.3,154
+24,35588987,0.03145,1246700,"Angola","AGO","AO",24,"Africa",Middle Africa,Sub-Saharan Africa,1246700,28.5466,73.9356,42,8.2,155
+894,20017675,0.02796,752612,"Zambia","ZMB","ZM",894,"Africa",Eastern Africa,Sub-Saharan Africa,743390,26.9276,69.7424,63,8.1,156
+226,1674908,0.02474,28051,"Equatorial Guinea","GNQ","GQ",226,"Africa",Middle Africa,Sub-Saharan Africa,28050,59.7115,154.6528,152,8,157
+174,836774,0.01844,1862,"Comoros","COM","KM",174,"Africa",Eastern Africa,Sub-Saharan Africa,1861,449.6368,1164.5592,163,7.8,158
+324,13859341,0.0242,245857,"Guinea","GIN","GN",324,"Africa",Western Africa,Sub-Saharan Africa,245720,56.403,146.0837,75,7.7,159
+140,5579144,0.02235,622984,"Central African Republic","CAF","CF",140,"Africa",Middle Africa,Sub-Saharan Africa,622980,8.9556,23.1949,117,7.5,160
+508,32969517.999999996,0.02782,801590,"Mozambique","MOZ","MZ",508,"Africa",Eastern Africa,Sub-Saharan Africa,786380,41.9257,108.5875,48,7.2,161
+404,54027487,0.01928,580367,"Kenya","KEN","KE",404,"Africa",Eastern Africa,Sub-Saharan Africa,569140,94.9283,245.8643,27,7.1,162
+360,275501339,0.00639,1904569,"Indonesia","IDN","ID",360,"Asia","South-Eastern Asia",1877519,146.7369,380.0486,4,6.9,163
+408,26069416,0.00375,120538,"North Korea","PRK","KP",408,"Asia","Eastern Asia",120410,216.5054,560.749,56,6.8,164
+180,99010212,0.0325,2344858,"DR Congo","COD","CD",180,"Africa",Middle Africa,Sub-Saharan Africa,2267050,43.6736,113.1146,15,6.7,165
+608,115559009,0.01474,342353,"Philippines","PHL","PH",608,"Asia","South-Eastern Asia",298170,387.5608,1003.7825,13,6.4,166
+64,782455,0.00639,38394,"Bhutan","BTN","BT",64,"Asia",Southern Asia,South Central Asia,38140,20.5153,53.1347,165,6.4,167
+156,1425887337,0,9706961,"China","CHN","CN",156,"Asia","Eastern Asia",9424702.9,151.2926,391.8477,1,6.2,168
+148,17723315,0.03164,1284000,"Chad","TCD","TD",148,"Africa",Middle Africa,Sub-Saharan Africa,1259200,14.0751,36.4544,69,6.1,169
+702,5975689,0.00583,710,"Singapore","SGP","SG",702,"Asia","South-Eastern Asia",718,8322.6866,21555.7584,113,6.1,170
+104,54179306,0.00709,676578,"Myanmar","MMR","MM",104,"Asia","South-Eastern Asia",652670,83.0118,215.0005,26,5.8,171
+454,20405317,0.02592,118484,"Malawi","MWI","MW",454,"Africa",Eastern Africa,Sub-Saharan Africa,94280,216.4331,560.5618,62,5.8,172
+646,13776698,0.02339,26338,"Rwanda","RWA","RW",646,"Africa",Eastern Africa,Sub-Saharan Africa,24670,558.4393,1446.3578,76,5.8,173
+854,22673762,0.02593,272967,"Burkina Faso","BFA","BF",854,"Africa",Western Africa,Sub-Saharan Africa,273600,82.8719,214.6383,58,5.6,174
+4,41128771,0.02567,652230,"Afghanistan","AFG","AF",4,"Asia",South Central Asia,Southern Asia,652230,63.0587,163.322,36,5.5,175
+562,26207977,0.03783,1267000,"Niger","NER","NE",562,"Africa",Western Africa,Sub-Saharan Africa,1266700,20.69,53.587,54,5.5,176
+108,12889576,0.02696,27834,"Burundi","BDI","BI",108,"Africa",Eastern Africa,Sub-Saharan Africa,25680,501.9305,1300.0001,78,5.4,177
+800,47249585,0.03044,241550,"Uganda","UGA","UG",800,"Africa",Eastern Africa,Sub-Saharan Africa,200520,235.6353,610.2954,31,5.3,178
+450,29611714,0.02407,587041,"Madagascar","MDG","MG",450,"Africa",Eastern Africa,Sub-Saharan Africa,581800,50.8967,131.8225,50,5.3,179
+418,7529475,0.01406,236800,"Laos","LAO","LA",418,"Asia","South-Eastern Asia",230800,32.6234,84.4945,103,5.3,180
+144,21832143,0.0027,65610,"Sri Lanka","LKA","LK",144,"Asia",Southern Asia,South Central Asia,61860,352.9283,914.0842,61,5.2,181
+232,3684032,0.0176,117600,"Eritrea","ERI","ER",232,"Africa",Eastern Africa,Sub-Saharan Africa,121040.8,30.4363,78.83,132,5,182
+410,51815810,-0.00028,100210,"South Korea","KOR","KR",410,"Asia","Eastern Asia",97600,530.8997,1375.0302,29,4.7,183
+231,123379924,0.02575,1104300,"Ethiopia","ETH","ET",231,"Africa",Eastern Africa,Sub-Saharan Africa,1128571.3,109.324,283.1491,12,4.5,184
+392,123951692,-0.0053,377930,"Japan","JPN","JP",392,"Asia","Eastern Asia",364500,340.0595,880.7541,11,4.3,185
+524,30547580,0.01707,147181,"Nepal","NPL","NP",524,"Asia",Southern Asia,South Central Asia,143350,213.0979,551.9235,49,4.1,186
+356,1417173173,0.00683,3287590,"India","IND","IN",356,"Asia",Southern Asia,South Central Asia,2973190,476.6507,1234.5254,2,3.9,187
+116,16767842,0.01078,181035,"Cambodia","KHM","KH",116,"Asia","South-Eastern Asia",176520,94.9912,246.0271,73,3.9,188
+626,1341296,0.01541,14874,"Timor-Leste","TLS","TL",626,"Asia","South-Eastern Asia",14870,90.2015,233.6218,155,3.8,189
+50,171186372,0.01081,147570,"Bangladesh","BGD","BD",50,"Asia",Southern Asia,South Central Asia,130170,1315.0985,3406.1051,8,3.6,190
+704,98186856,0.00738,331212,"Vietnam","VNM","VN",704,"Asia","South-Eastern Asia",313429,313.2667,811.3606,16,2.1,191

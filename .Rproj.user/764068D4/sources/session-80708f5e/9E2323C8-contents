@@ -1,0 +1,8 @@
+#gdp_cleaned <- gdp[gdp$gdp<2e+12,]
+
+bigmac_gdp = merge(bigmac_index, gdp, by = "name")
+
+corellation(bigmac_gdp$dollar_price,
+            "dollar_price",
+            bigmac_gdp$per_capita,
+            "gdp per capita")

@@ -1,0 +1,73 @@
+# Load the necessary packages
+library(dplyr)
+library(ggplot2)
+library(sf)
+library(maptools)
+# Load the data
+data1 <- read.csv("big-mac-raw-index.csv", header = TRUE, sep = ",")
+# Earliest 2016-07-01 (corr with happiness 0.73)
+# Latest   2022-07-01 (corr with happiness 0.64)
+
+data1 <- data1[data1$date=="2022-07-01",]
+summary(data1)
+
+# GDP data set ends in 2016
+data2 <-read.csv("gdp_csv.csv")
+colnames(data2) = c("name", "code", "year", "gdp")
+colnames(Average_temp) = c("name", "last_temp", "previous_temp", "references", "unit")
+colnames(drinks) = c("name", "beer_servings", "spirit_servings", "wine_serwings", "total_liters_of_pure_alchohol")
+
+data2 <- data2[data2$year==2016,]
+
+# Filtering anomaly rich countries, with GDP > $200B
+print(data2 <- data2[data2$gdp<2e+12,])
+summary(data2)
+
+data3 <-read.table("2017.csv", sep=",")
+colnames(data3) = c("name",
+                    "Happiness.Rank",
+                    "Happiness.Score",
+                    "Whisker.high",
+                    "Whisker.low",
+                    "Economy..GDP.per.Capita.",
+                    "Family",
+                    "Health..Life.Expectancy.",
+                    "Freedom",
+                    "Generosity",
+                    "Trust..Government.Corruption.",
+                    "Dystopia.Residual")
+
+
+# Merge the datasets
+data_merged <- merge(data1, data2, by ="name")
+data_merged <- merge(data_merged, data3, by ="name")
+data_merged <- merge(data_merged, Average_temp, by ="name")
+data_merged <- merge(data_merged, drinks, by ="name")
+
+# Read the attributes into a data frame
+
+attributes = read.csv("API_8_DS2_en_csv_v2_4754485.csv",
+                      skip=4, stringsAsFactors=F, header = TRUE, sep = ",")
+
+electricity_comp = na.omit(read.csv("API_EG.USE.ELEC.KH.PC_DS2_en_csv_v2_4753997.csv",
+                                    skip=4, stringsAsFactors=F, header = TRUE, sep = ","))
+
+
+corellation <- function(table, dataframe1, dataframe1name, dataframe2, dataframe2name)
+{
+  # Calculate and print the correlation
+  cat("Corellation:", cor(dataframe1, dataframe2), "\n")
+  
+  # Visualize the relationship between the two variables using a scatterplot
+  ggplot(table, aes(x = dataframe1, y = dataframe2)) +
+    geom_point() +
+    geom_smooth(method = "lm", se = FALSE) +
+    xlab(dataframe1name) +
+    ylab(dataframe2name)
+}
+
+corellation(data_merged, data_merged$total_liters_of_pure_alchohol, "Total liters of alchohol consumed", data_merged$last_temp, "Avetage Temperature in Country")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", data_merged$gdp, "gdp")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", as.double(data_merged$Happiness.Score), "Happiness.Score")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", as.double(data_merged$Trust..Government.Corruption.), "Trust..Government.Corruption.")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", as.double(data_merged$Generosity), "Generosity")

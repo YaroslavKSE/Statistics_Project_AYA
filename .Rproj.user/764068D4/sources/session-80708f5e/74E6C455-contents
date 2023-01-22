@@ -1,0 +1,9 @@
+temp_alco = merge(average_temp, drinks, by = "name")
+corellation(temp_alco$total_liters_of_pure_alchohol, "Total liters of alchohol consumed", temp_alco$last_temp, "Avetage Temperature in Country")
+
+# bigmac_gdp = merge(bigmac_index, gdp, by = "name")
+
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", data_merged$gdp, "gdp")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", as.double(data_merged$Happiness.Score), "Happiness.Score")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", as.double(data_merged$Trust..Government.Corruption.), "Trust..Government.Corruption.")
+#corellation(data_merged, data_merged$dollar_price, "dollar_price", as.double(data_merged$Generosity), "Generosity")

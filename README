@@ -1,0 +1,5 @@
+In order to make this project working there are 4 steps:
+1) Set "Data Sets" as your working directory
+2) Open "Import.R" in "Data Sets" folder and run all the code
+3) Open "Analytics" folder and run "Corellation.R"
+4) If you want to execute "mcdonalds_map.R", run "DrawMap.R" from that folder

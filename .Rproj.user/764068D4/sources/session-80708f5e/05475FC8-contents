@@ -1,0 +1,6 @@
+obesity_alco = merge(obesity, drinks, by = "name")
+
+corellation(obesity_alco$total_liters_of_pure_alchohol,
+            "Total liters of alchohol consumed",
+            obesity_alco$last_temp,
+            "Avetage Temperature in Country")

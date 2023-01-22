@@ -1,0 +1,8 @@
+plot(calculate_map(mcdonalds, "Restaurants", "NAME"), breaks=unique(quantile(
+     mcdonalds["Restaurants"], probs=seq(0,1, by=1/100),na.rm=TRUE)), 
+     pal=colorRampPalette(c("#a0ffa0", "#004000")), key.pos=1,
+     main="McDonalds Restaurants")
+
+# Use logarythm
+
+rm(wrld_simpl)

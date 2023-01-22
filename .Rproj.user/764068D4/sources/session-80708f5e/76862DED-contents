@@ -1,0 +1,6 @@
+temp_alco = merge(temperature, drinks, by = "name")
+
+corellation(temp_alco$total_liters_of_pure_alchohol,
+            "Total liters of alchohol consumed",
+            temp_alco$last_temp,
+            "Avetage Temperature in Country")

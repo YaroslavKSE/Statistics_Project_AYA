@@ -1,0 +1,25 @@
+{
+    "id": "2B6EE272",
+    "path": null,
+    "project_path": null,
+    "type": "r_code_browser",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1673960609438.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "context": ".GlobalEnv:::calculate_map"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94387338812304,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1673960609438,
+    "read_only": false,
+    "read_only_alternatives": []
+}

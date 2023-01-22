@@ -1,0 +1,8 @@
+bigmac_gdp = merge(bigmac_index, gdp, by = "name")
+
+corellation(bigmac_gdp$dollar_price,
+            "dollar_price",
+            bigmac_gdp$gdp,
+            "gdp")
+
+
